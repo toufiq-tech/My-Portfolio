@@ -104,7 +104,7 @@ export default function Hero() {
                 }}
               >
                 <Image
-                  src="/images/MYPic.png"
+                  src="/images/MyPic.png"
                   alt="Toufiqur Rahaman"
                   fill
                   priority
