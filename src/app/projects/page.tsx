@@ -12,6 +12,7 @@ const projects = [
     category: "Full Stack Development",
     technologies: [
       "Next.js",
+      "React",
       "TypeScript",
       "Tailwind CSS",
       "MongoDB",
@@ -29,9 +30,9 @@ const projects = [
     category: "Web Application",
     technologies: [
       "React",
-      "JavaScript",
-      "CSS",
-      "Responsive Design",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
     ],
     live: "https://fit-log-six-rho.vercel.app/",
   },
@@ -45,8 +46,9 @@ const projects = [
     category: "Frontend Development",
     technologies: [
       "React",
-      "JavaScript",
-      "Frontend Development",
+      "Tailwind CSS",
+      "Next.js",
+      "React-Toastify",
     ],
     live: "https://react-dev-stack.vercel.app/",
   },
