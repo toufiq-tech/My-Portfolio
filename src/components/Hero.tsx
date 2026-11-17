@@ -41,7 +41,7 @@ export default function Hero() {
                 <Download size={20} />
               </a>
               <a
-                href="/resume/Toufiqur-Rahaman-CV.pdf"
+                href="/static/My CV.pdf"
                 download
                 className="inline-flex h-14 items-center gap-3 bg-[#52E6AC] px-8 font-bold text-[#090E18] transition-all duration-300 hover:bg-white"
               >
