@@ -33,7 +33,7 @@ export default function Hero() {
 
             <div className="mt-10 flex flex-col items-center gap-6 sm:flex-row sm:flex-wrap sm:justify-center lg:justify-start">
               <a
-                href="/resume/Toufiqur-Rahaman-CV.pdf"
+                href="/static/My Resume.pdf"
                 download
                 className="inline-flex h-14 items-center gap-3 bg-[#52E6AC] px-8 font-bold text-[#090E18] transition-all duration-300 hover:bg-white"
               >
@@ -104,7 +104,7 @@ export default function Hero() {
                 }}
               >
                 <Image
-                  src="/images/MyPic.png"
+                  src="/static/MyPic.png"
                   alt="Toufiqur Rahaman"
                   fill
                   priority

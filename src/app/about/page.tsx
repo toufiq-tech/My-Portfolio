@@ -12,7 +12,7 @@ export default function About() {
         <div className="mx-auto w-full max-w-md">
           <div className="overflow-hidden rounded-2xl border-4 border-[#52E6AC]">
             <Image
-              src="/images/MyPic.png"
+              src="/static/MyPic.png"
               alt="Toufiqur Rahaman"
               width={500}
               height={600}
