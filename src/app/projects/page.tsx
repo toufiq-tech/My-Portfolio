@@ -8,7 +8,7 @@ const projects = [
     subtitle: "MARKET PRICE TRACKING PLATFORM",
     description:
       "A Bengali market price tracking platform that helps people explore daily prices of essential products. Users can compare market prices, track price changes and stay updated with the latest market information.",
-    image: "/images/project-1.png",
+    image: "/static/project-1.png",
     category: "Full Stack Development",
     technologies: [
       "Next.js",
@@ -26,7 +26,7 @@ const projects = [
     subtitle: "FITNESS & WORKOUT APPLICATION",
     description:
       "A fitness application designed to make workout planning simple and organized. Explore different exercises, discover workout details and manage daily fitness activities through an intuitive interface.",
-    image: "/images/project-2.png",
+    image: "/static/project-2.png",
     category: "Web Application",
     technologies: [
       "React",
@@ -42,7 +42,7 @@ const projects = [
     subtitle: "REACT DEVELOPMENT PROJECT",
     description:
       "A frontend development project that represents my practical experience with React. Built as part of my journey to improve frontend development skills and create interactive user interfaces.",
-    image: "/images/project-3.png",
+    image: "/static/project-3.png",
     category: "Frontend Development",
     technologies: [
       "React",
